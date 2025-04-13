@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+    --primary-color: #00796b;
+}
+html {
+    scroll-behavior: smooth;
+}
